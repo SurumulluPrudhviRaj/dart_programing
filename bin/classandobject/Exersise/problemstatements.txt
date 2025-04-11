@@ -1,0 +1,18 @@
+Create a class called Book with the following:
+Properties: title, author, and price
+A method called displayDetails() to print all the details of the book
+Then, in the main() function:
+Create 2 objects of the Book class
+Set different values for each book
+Call displayDetails() for each book to print the information
+
+Out Put should be 
+Title: The Alchemist
+Author: Paulo Coelho
+Price: 350
+------------------
+Title: Flutter in Action
+Author: Eric Windmill
+Price: 500
+------------------
+
